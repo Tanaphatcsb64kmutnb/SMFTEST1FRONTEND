@@ -14,6 +14,14 @@
 
 ---
 
+## Structure file
+project/
+├── SMFTEST1BACKEND/
+├── SMFTEST1FRONTEND/
+
+
+## Result
+
 ## 1. Check format email and password
 
 **Result:** ตรวจสอบรูปแบบอีเมลและรหัสผ่าน พร้อมแสดงข้อความแจ้งเตือน
