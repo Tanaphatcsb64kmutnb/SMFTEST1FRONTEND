@@ -1,4 +1,4 @@
-//getapifrombackend and modify in frontend
+//getapifrombackend and modify in frontend (ตั้งค่าว่าจะใช้ cloud หรือ localhost)
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter_dotenv/flutter_dotenv.dart';
@@ -6,7 +6,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 class NetworkService {
   
   // ใช้ค่าจาก .env file แทนการ hardcode
-  // static const String baseUrl = 'http://localhost:3000'; // ใช้สำหรับทดสอบบน Emulator/Simulator ที่เชื่อมต่อกับ localhost
+  // static const String baseUrl = 'http://localhost:3000'; // เอา comment ออกเพื่อใช้กับ localhost
   static String get baseUrl => dotenv.env['BASE_URL'] ?? 'http://localhost:3000';
 
   // ฟังก์ชันสำหรับสมัครสมาชิก

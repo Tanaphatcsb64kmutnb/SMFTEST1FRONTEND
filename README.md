@@ -15,8 +15,9 @@
 ---
 
 ## Structure file
-project/
+
 ```bash
+SmileFokusAssignment1/
 ├── SMFTEST1BACKEND/
 ├── SMFTEST1FRONTEND/ ***
 ```
@@ -94,14 +95,15 @@ git clone https://github.com/Tanaphatcsb64kmutnb/SMFTEST1FRONTEND.git
 cd SMFTEST1FRONTEND
 ```
 
-
-
-3.ติดตั้ง dependencies ที่ใช้ในโปรเจกต์:
+3. ติดตั้ง dependencies ที่ใช้ในโปรเจกต์:
 ```bash
 flutter pub get
 ```
 
-4.Run project
+4. Run project
 ```bash
 flutter run
 ```
+
+5. SMFTEST1FRONTEND\lib\services\network_service.dart (ตั้งค่าว่าจะใช้ cloud หรือ localhost)
+-ปัจจุบันใช้ cloud services (บรรทัดที่10ของไฟล์)
