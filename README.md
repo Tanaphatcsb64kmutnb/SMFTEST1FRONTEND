@@ -2,6 +2,16 @@
 
 > แอปพลิเคชันทดสอบระบบ Wishlist, Redeem, Login และระบบแต้ม ด้วย Flutter
 
+## ⚙️ Tech Stack
+
+| Layer      | Technology                |
+|------------|---------------------------|
+| 👨‍💻 Frontend | Flutter (Android Platform) |
+| 🔙 Backend  | Node.js + Express.js      |
+| 💾 Database | MongoDB                  |
+
+---
+
 ---
 
 ## 1. Check format email and password
