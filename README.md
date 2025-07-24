@@ -96,8 +96,7 @@ cd SMFTEST1FRONTEND
 
 
 
-3.
-ติดตั้ง dependencies ที่ใช้ในโปรเจกต์:
+3.ติดตั้ง dependencies ที่ใช้ในโปรเจกต์:
 ```bash
 flutter pub get
 ```
