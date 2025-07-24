@@ -14,8 +14,7 @@ cd SMFTEST1FRONTEND
 3.
 ติดตั้ง dependencies ที่ใช้ในโปรเจกต์:
 ```bash
-git clone https://github.com/Tanaphatcsb64kmutnb/SMFTEST1FRONTEND.git
-cd SMFTEST1FRONTEND
+flutter pub get
 ```
 
 4.Run project
