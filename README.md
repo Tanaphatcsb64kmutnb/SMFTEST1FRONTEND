@@ -7,6 +7,7 @@
 ```bash
 git clone https://github.com/Tanaphatcsb64kmutnb/SMFTEST1FRONTEND.git
 cd SMFTEST1FRONTEND
+```
 
 
 
@@ -15,8 +16,9 @@ cd SMFTEST1FRONTEND
 ```bash
 git clone https://github.com/Tanaphatcsb64kmutnb/SMFTEST1FRONTEND.git
 cd SMFTEST1FRONTEND
-
+```
 
 4.Run project
 ```bash
 flutter run
+```
