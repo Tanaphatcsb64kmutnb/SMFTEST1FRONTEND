@@ -16,8 +16,10 @@
 
 ## Structure file
 project/
+```bash
 ├── SMFTEST1BACKEND/
-├── SMFTEST1FRONTEND/
+├── SMFTEST1FRONTEND/ ***
+```
 
 
 ## Result
